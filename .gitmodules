@@ -1,0 +1,4 @@
+[submodule "teste-sub"]
+	path = teste-sub
+	url = https://github.com/Paulofsr/teste-sub
+	branch = master
